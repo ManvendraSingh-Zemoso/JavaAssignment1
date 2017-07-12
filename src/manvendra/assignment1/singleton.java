@@ -1,4 +1,4 @@
-package manvendra.assignment;
+package manvendra.assignment1;
 
 /**
  * Created by zemoso on 10/7/17.
