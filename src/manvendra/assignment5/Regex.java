@@ -18,7 +18,7 @@ public class Regex {
         return Pattern.matches("^[A-Z].*[.]$",test);
     }
     /**
-     * This method is used to print the result of Test.
+     * This method is used to print the result of TestRegex.
      * @param result output of return statement from Test method
      */
     public static void Result(boolean result){
